@@ -21,4 +21,10 @@
   given: Anastasia
   affiliations:
     - Illinois Natural History Survey
+- family: Simmons
+  given: Benno I.
+  affiliations:
+    - Conservation Science Group, Department of Zoology, University of Cambridge, Cambridge, UK
+    - Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK
+  orcid: 0000-0002-2751-9430
 ...
