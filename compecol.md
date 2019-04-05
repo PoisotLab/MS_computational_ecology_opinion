@@ -651,6 +651,8 @@ collaborations.
 stimulating discussions, and the Station de Biologie des Laurentides de
 l'Université de Montréal for hosting him during part of the writing process. TP
 thanks the Canadian Institute for Ecology and Evolution for financial support.
+BIS is supported by the Natural Environment Research Council as part of the
+Cambridge Earth System Science NERC DTP (NE/L002507/1).
 We thank the volunteers of Software Carpentry and Data Carpentry, whose work
 contribute to improving the skills of ecologists. Carabid picture by Maxime
 Dahirel (CC-BY 4.0), spider image by Sidney Frederic Harmer, Arthur Everett
